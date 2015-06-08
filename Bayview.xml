@@ -51,6 +51,4 @@
       </block>
     </statement>
   </block>
-  <block type="robot_delay" id="39" inline="true" x="361" y="27"></block>
-  <block type="movement_stop" id="49" x="267" y="234"></block>
 </xml>
